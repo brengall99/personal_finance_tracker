@@ -33,6 +33,6 @@ Again displays the tabulated summary information for each month and the average 
 ### Example of monthly pie chart.
 <img width="414" alt="Screenshot 2024-04-29 at 19 48 14" src="https://github.com/brengall99/personal_finance_tracker/assets/159880330/1899e525-114a-44a5-8302-c44f5f7d2476">
 
-### Example of visual 'Needs, Wants and Variable' table.
+### Example of visual 'Needs, Wants and Variable' visual.
 <img width="594" alt="Screenshot 2024-04-29 at 19 48 46" src="https://github.com/brengall99/personal_finance_tracker/assets/159880330/a5559c72-b695-447e-8e58-8dc6205ba8f2">
 
