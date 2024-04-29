@@ -27,11 +27,12 @@ Again displays the tabulated summary information for each month and the average 
 - Fill in the required monthly information listed above (5 fields at the start of the month, 2 at the end)
 - When you make a purchase fill in: 'Date, Description, Tags, Price) fields and let the spreadsheet do the rest!
 
-<img width="366" alt="Screenshot 2024-04-29 at 19 49 51" src="https://github.com/brengall99/personal_finance_tracker/assets/159880330/73b8f4e0-b1d6-4de2-91a3-a52840411a8e">
 ### Example of inputs table.
+<img width="366" alt="Screenshot 2024-04-29 at 19 49 51" src="https://github.com/brengall99/personal_finance_tracker/assets/159880330/73b8f4e0-b1d6-4de2-91a3-a52840411a8e">
 
-<img width="414" alt="Screenshot 2024-04-29 at 19 48 14" src="https://github.com/brengall99/personal_finance_tracker/assets/159880330/1899e525-114a-44a5-8302-c44f5f7d2476">
 ### Example of monthly pie chart.
+<img width="414" alt="Screenshot 2024-04-29 at 19 48 14" src="https://github.com/brengall99/personal_finance_tracker/assets/159880330/1899e525-114a-44a5-8302-c44f5f7d2476">
 
-<img width="594" alt="Screenshot 2024-04-29 at 19 48 46" src="https://github.com/brengall99/personal_finance_tracker/assets/159880330/a5559c72-b695-447e-8e58-8dc6205ba8f2">
 ### Example of visual 'Needs, Wants and Variable' table.
+<img width="594" alt="Screenshot 2024-04-29 at 19 48 46" src="https://github.com/brengall99/personal_finance_tracker/assets/159880330/a5559c72-b695-447e-8e58-8dc6205ba8f2">
+
