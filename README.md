@@ -7,7 +7,7 @@ A personal finance tracker that only requires 4 inputs for a purchase (Date, Des
 
 We also need to set up the following fields at the start of the month: 
 - Income,
-- From Stocks,
+- From Stocks (Additional income from stocks),
 - Budget,
 - Additional Expenses,
 - Investments (-),
