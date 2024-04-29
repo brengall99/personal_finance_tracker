@@ -1,6 +1,6 @@
 # Personal Finance Tracker
 
-Note: All information in the file is for example purposes only!
+Note: All financial information in the file is purely for demonstrational purposes only!
 
 ## Description
 A personal finance tracker that only requires 4 inputs for a purchase (Date, Description (optional), Tag, and Price) which then runs a range of analytics for monthly data. 
